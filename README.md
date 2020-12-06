@@ -1,2 +1,6 @@
 # Hello_World
-Zadatak GitHub Hello World na kolegiju Potporni informacijski procesi.
+
+Pozdrav!
+
+Ovo je moj pokušaj izrade zadatka. 
+Nadam se da će pokušaj biti uspješan. 
